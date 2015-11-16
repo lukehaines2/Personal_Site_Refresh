@@ -393,3 +393,52 @@ img:hover {
   padding-bottom: 30px;
   max-width: 250px;
 }
+
+.row {
+    margin: 0px 60px 0px 60px;
+}
+
+.preview {
+  /*max-height: 270px;*/
+  /*max-width: 520px;*/
+}
+
+#ga-logo {
+  padding-top: 20px;
+  text-align: middle;
+}
+
+#h4-link {
+  color: #42dca3;
+  text-align: left;
+}
+
+#skills-p {
+  color: #777;
+  text-align: left;
+}
+
+#skills {
+  min-width: 100vw;
+  min-height: 100vh;
+  padding-top: 150px;
+}
+
+.skillsIcons {
+  margin-bottom: 20px;
+}
+
+.skillsList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 60px 0;
+}
+
+.skillsItem {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+#skills-photo {
+  max-width: 50%;
+}
