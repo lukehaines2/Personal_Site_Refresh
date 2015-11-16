@@ -379,3 +379,18 @@ body {
     max-width: 350px;
     max-height: 350px;
 }
+
+#portfolio {
+  min-width: 100vw;
+  min-height: 100vh;
+  padding-top: 60px;
+  margin-bottom: 80px;
+}
+
+img {
+  opacity: 0.8;
+}
+
+img:hover {
+    opacity: 1.0;
+}
