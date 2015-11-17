@@ -400,7 +400,7 @@ img:hover {
 
 .preview {
   /*max-height: 270px;*/
-  /*max-width: 520px;*/
+  max-width: 528px;
 }
 
 #ga-logo {
@@ -450,4 +450,13 @@ img:hover {
 
 #name-header {
   float: left;
+}
+
+.modal-header {
+  color: #333;
+}
+
+.modal-body {
+  color: #333;
+  padding-top: 20px;
 }
