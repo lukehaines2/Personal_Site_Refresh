@@ -460,3 +460,7 @@ img:hover {
   color: #333;
   padding-top: 20px;
 }
+
+.projectInfo {
+    font-size: 19px;
+}
